@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
+    "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
+    "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectPath": "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker.csproj",
         "packagesPath": "/Users/ebeltz/.nuget/packages/",
-        "outputPath": "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/CatWorx.BadgeMaker/obj/",
+        "outputPath": "/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ebeltz/.nuget/NuGet/NuGet.Config"

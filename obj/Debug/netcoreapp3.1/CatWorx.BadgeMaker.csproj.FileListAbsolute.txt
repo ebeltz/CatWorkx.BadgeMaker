@@ -1,0 +1,12 @@
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.deps.json
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.dev.json
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csprojAssemblyReference.cache
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/ebeltz/Desktop/Coding-Bootcamp/projects/CatWorkx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.genruntimeconfig.cache
